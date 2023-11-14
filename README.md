@@ -1,2 +1,1 @@
-### visit:
-(https://stock-app-tfdl.onrender.com)
+### visit: ### srtock-app (https://stock-app-tfdl.onrender.com)
