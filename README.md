@@ -1,2 +1,2 @@
-link 
-https://stock-frontend-wine.vercel.app
+visit:
+[https://stock-frontend-wine.vercel.app]
